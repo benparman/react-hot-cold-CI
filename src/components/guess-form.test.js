@@ -8,4 +8,8 @@ describe('<GuessForm />', () => {
   it('Renders without crashing', () => {
     shallow(<GuessForm />);
   })
+  // it('Should return a form');
+  // let 
 })
+
+//Not sure how to complete this test yet
